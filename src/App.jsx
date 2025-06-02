@@ -1,4 +1,4 @@
-import "./App.css";
+// import "./App.css";
 import { contents } from "./assets/data/data";
 import Content from "./components/Content";
 import Header from "./components/Header";

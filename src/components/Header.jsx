@@ -2,9 +2,9 @@ export default function Header() {
   return (
     <header className="flex justify-between items-center py-[10px] px-[20px]]
     bg-black">
-      <h2>OZ코딩스쿨</h2>
+      <h2 className="font-bold text-[24px]"> OZ Coding School </h2>
       <ul className="flex justify-center items-center gap-[20px]
-      li:list-none li:font-normal li:text-[13px]">
+      li:list-none li:font-normal li:text-[17px]">
         <li>로그인</li>
         <li>회원가입</li>
         <li>내클래스</li>
